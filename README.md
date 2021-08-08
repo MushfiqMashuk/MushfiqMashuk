@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mushfiq Mashuk
 - 👀 I’m interested in Javascript, Node.js, React.js, Machine Learning, Astronomy and Physics
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on some Javascript projects
+- 💞️ I’m looking to collaborate on any Javascript project.
 - 📫 How to reach me [Gmail](mushfiqmashuk96@gmail.com), [Facebook](https://www.facebook.com/mushfiq.mashuk.3)
 
 <!---
